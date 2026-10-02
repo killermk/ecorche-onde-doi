@@ -1,0 +1,590 @@
+{
+ "quadros": 1172,
+ "fps": 30,
+ "marcas": [
+  [
+   0,
+   "drible"
+  ],
+  [
+   164,
+   "dor"
+  ],
+  [
+   960,
+   "comemoracao"
+  ]
+ ],
+ "trechos": [
+  {
+   "de": 0,
+   "ate": 18,
+   "clipe": "soccer-spin",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 18,
+   "ate": 57,
+   "clipe": "soccer-spin",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 57,
+   "ate": 79,
+   "clipe": "goalkeeper-drop-kick",
+   "t0": 1.4,
+   "t1": 2.1,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 79,
+   "ate": 133,
+   "clipe": "goalkeeper-drop-kick",
+   "t0": 2.1,
+   "t1": 2.9,
+   "velocidade": 0.45,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 133,
+   "ate": 164,
+   "clipe": "goalkeeper-drop-kick",
+   "t0": 2.9,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 164,
+   "ate": 222,
+   "clipe": "chute-no-saco",
+   "t0": 0.3,
+   "t1": 2.2,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 222,
+   "ate": 246,
+   "tipo": "pose mantida"
+  },
+  {
+   "de": 246,
+   "ate": 249,
+   "clipe": "deitando-na-maca",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 249,
+   "ate": 422,
+   "clipe": "deitando-na-maca",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 422,
+   "ate": 464,
+   "tipo": "pose mantida"
+  },
+  {
+   "de": 464,
+   "ate": 467,
+   "clipe": "00-agachamento",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 467,
+   "ate": 523,
+   "clipe": "00-agachamento",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 523,
+   "ate": 580,
+   "clipe": "00-agachamento",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  },
+  {
+   "de": 580,
+   "ate": 698,
+   "clipe": "03-pulo-sobre-a-caixa",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 698,
+   "ate": 772,
+   "clipe": "04-flexao-e-pulo",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 772,
+   "ate": 832,
+   "tipo": "pose parada: deitado na maca, igual ao fim da avaliação",
+   "copia_do_quadro": 421
+  },
+  {
+   "de": 832,
+   "ate": 844,
+   "clipe": "soccer-spin",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 844,
+   "ate": 883,
+   "clipe": "soccer-spin",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 883,
+   "ate": 905,
+   "clipe": "goalkeeper-drop-kick",
+   "t0": 1.4,
+   "t1": 2.1,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 905,
+   "ate": 960,
+   "clipe": "goalkeeper-drop-kick",
+   "t0": 2.1,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 960,
+   "ate": 1000,
+   "clipe": "strike-foward-jog",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1000,
+   "ate": 1107,
+   "clipe": "cartwheel",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1107,
+   "ate": 1172,
+   "clipe": "backflip",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  }
+ ],
+ "ajustes": [
+  {
+   "de": 170,
+   "ate": 246,
+   "tipo": "adaptação feita neste projeto: mãos atrás da coxa da perna de apoio (cinemática inversa sobre Chute no Saco)"
+  },
+  {
+   "de": 960,
+   "ate": 1000,
+   "tipo": "adaptação feita neste projeto: braços erguidos sobre a corrida da comemoração"
+  },
+  {
+   "de": 246,
+   "ate": 474,
+   "tipo": "dedos apoiados sobre o tampo da maca (punho sobe por cinemática inversa)"
+  }
+ ],
+ "adereços": [
+  {
+   "tipo": "maca",
+   "pos": [
+    2.3401723281139866,
+    0.5587906176831992,
+    4.083619625166573
+   ],
+   "dir": 0.1408996883693464,
+   "de": 246,
+   "ate": 474
+  },
+  {
+   "tipo": "maca",
+   "pos": [
+    2.3401723281139866,
+    0.5587906176831992,
+    4.083619625166573
+   ],
+   "dir": 0.1408996883693464,
+   "de": 772,
+   "ate": 832
+  },
+  {
+   "tipo": "caixa",
+   "pos": [
+    -2.9737877508092154,
+    0.0,
+    4.620846280290862
+   ],
+   "altura": 0.396,
+   "de": 580,
+   "ate": 698
+  },
+  {
+   "tipo": "bola",
+   "de": 0,
+   "ate": 246
+  },
+  {
+   "tipo": "bola",
+   "de": 832,
+   "ate": 960
+  },
+  {
+   "tipo": "campo",
+   "pos": [
+    0.0,
+    0.0,
+    6.0
+   ],
+   "de": 0,
+   "ate": 1172
+  }
+ ],
+ "realces": [
+  {
+   "estruturas": [
+    "Long head of biceps femoris",
+    "Short head of biceps femoris",
+    "Semitendinosus muscle",
+    "Semimembranosus muscle",
+    "Popliteus muscle",
+    "Medial head of gastrocnemius",
+    "Lateral head of gastrocnemius",
+    "Oblique popliteal ligament"
+   ],
+   "lado": "E",
+   "de": 133,
+   "ate": 246,
+   "entrada": 8,
+   "saida": 12
+  },
+  {
+   "estruturas": [
+    "Long head of biceps femoris",
+    "Short head of biceps femoris",
+    "Semitendinosus muscle",
+    "Semimembranosus muscle",
+    "Popliteus muscle",
+    "Medial head of gastrocnemius",
+    "Lateral head of gastrocnemius",
+    "Oblique popliteal ligament"
+   ],
+   "lado": "E",
+   "de": 412,
+   "ate": 464,
+   "entrada": 10,
+   "saida": 10
+  },
+  {
+   "estruturas": [
+    "Gluteus maximus muscle",
+    "Rectus femoris muscle",
+    "Vastus lateralis muscle",
+    "Vastus medialis muscle",
+    "Long head of biceps femoris",
+    "Semitendinosus muscle"
+   ],
+   "lado": "ambos",
+   "de": 467,
+   "ate": 772,
+   "entrada": 15,
+   "saida": 15
+  },
+  {
+   "estruturas": [
+    "Long head of biceps femoris",
+    "Short head of biceps femoris",
+    "Semitendinosus muscle",
+    "Semimembranosus muscle",
+    "Popliteus muscle",
+    "Medial head of gastrocnemius",
+    "Lateral head of gastrocnemius",
+    "Oblique popliteal ligament"
+   ],
+   "lado": "E",
+   "de": 782,
+   "ate": 832,
+   "entrada": 10,
+   "saida": 20,
+   "forca": 0.5
+  }
+ ],
+ "etapas": [
+  {
+   "de": 0,
+   "ate": 57,
+   "titulo": "Drible",
+   "texto": "Giro com a bola: cada toque sai da posição real do pé."
+  },
+  {
+   "de": 57,
+   "ate": 133,
+   "titulo": "Chute",
+   "texto": "O último toque levanta a bola e o chute pega de voleio. A câmera acompanha a perna no ponto mais alto."
+  },
+  {
+   "de": 133,
+   "ate": 246,
+   "titulo": "Pouso da perna de apoio",
+   "texto": "A dor aparece no pouso. Em destaque, músculos e ligamentos da parte de trás do joelho e da coxa."
+  },
+  {
+   "de": 246,
+   "ate": 464,
+   "titulo": "Avaliação",
+   "texto": "Na maca, a parte de trás da coxa e do joelho é examinada. A cena não indica diagnóstico."
+  },
+  {
+   "de": 464,
+   "ate": 772,
+   "titulo": "Reabilitação",
+   "texto": "Agachamento, salto na caixa e flexão com salto: sequência ilustrativa, não prescrição."
+  },
+  {
+   "de": 772,
+   "ate": 832,
+   "titulo": "Reavaliação",
+   "texto": "Nova avaliação antes de voltar ao campo."
+  },
+  {
+   "de": 832,
+   "ate": 960,
+   "titulo": "Retorno",
+   "texto": "Drible e chute de novo, sem dor."
+  },
+  {
+   "de": 960,
+   "ate": 1172,
+   "titulo": "Comemoração",
+   "texto": "Corrida de braços erguidos, estrela e mortal para trás."
+  }
+ ],
+ "cortes": [
+  {
+   "quadro": 246,
+   "largura": 16
+  },
+  {
+   "quadro": 464,
+   "largura": 14
+  },
+  {
+   "quadro": 772,
+   "largura": 14
+  },
+  {
+   "quadro": 832,
+   "largura": 14
+  }
+ ],
+ "fatos": {
+  "pe_de_chute": "Right",
+  "pe_de_apoio": "Left",
+  "lado_destacado": "E",
+  "bola_chute_1": {
+   "raio_m": 0.11,
+   "toques_de_drible": 2,
+   "quadro_de_contato": 78,
+   "levantada": {
+    "quadro": 51,
+    "tipo": "um quique (meio-voleio)",
+    "apice_m": 0.59,
+    "duracao_s": 0.9
+   },
+   "velocidade_do_pe_m_s": 13.23,
+   "velocidade_de_saida_m_s": 18.54,
+   "angulo_de_saida_graus": 22.0,
+   "desvio_max_no_drible_m": 0.063,
+   "curva_lateral_da_levantada_m": 0.187,
+   "centro_no_contato_m": [
+    1.608,
+    0.319,
+    4.653
+   ],
+   "maior_passo_entre_quadros_antes_do_chute_m": 0.191,
+   "velocidade_nos_6_quadros_antes_do_contato_m_s": [
+    2.687,
+    2.583,
+    2.516,
+    2.489,
+    2.502,
+    2.555
+   ],
+   "distancia_pele_bola_no_impacto_m": 0.0016,
+   "pele_dentro_da_bola_max_m": 0.0299,
+   "quadro_da_maior_penetracao": 48
+  },
+  "bola_chute_2": {
+   "raio_m": 0.11,
+   "toques_de_drible": 2,
+   "quadro_de_contato": 904,
+   "levantada": {
+    "quadro": 877,
+    "tipo": "um quique (meio-voleio)",
+    "apice_m": 0.82,
+    "duracao_s": 0.9
+   },
+   "velocidade_do_pe_m_s": 13.24,
+   "velocidade_de_saida_m_s": 18.54,
+   "angulo_de_saida_graus": 22.0,
+   "desvio_max_no_drible_m": 0.063,
+   "curva_lateral_da_levantada_m": 0.0,
+   "centro_no_contato_m": [
+    1.608,
+    0.324,
+    16.653
+   ],
+   "maior_passo_entre_quadros_antes_do_chute_m": 0.199,
+   "velocidade_nos_6_quadros_antes_do_contato_m_s": [
+    4.397,
+    4.116,
+    3.101,
+    2.897,
+    2.716,
+    2.565
+   ],
+   "distancia_pele_bola_no_impacto_m": 0.0016,
+   "pele_dentro_da_bola_max_m": 0.0485,
+   "quadro_da_maior_penetracao": 880
+  },
+  "exercicios": [
+   "00",
+   "03",
+   "04"
+  ],
+  "adaptacoes": [
+   "reação 'Chute no Saco' com as mãos atrás da coxa (cinemática inversa)",
+   "braços erguidos sobrepostos à corrida da comemoração"
+  ],
+  "contatos_travados": {
+   "Left": 21,
+   "Right": 21
+  },
+  "contatos_pela_pele": {
+   "chao_correcao_max_m": 0.1486,
+   "maca": {
+    "pos": [
+     2.3401723281139866,
+     0.5587906176831992,
+     4.083619625166573
+    ],
+    "dir": 0.1408996883693464,
+    "altura_topo": 0.5587906176831992,
+    "eixo": [
+     0.9900900501525303,
+     0.0,
+     -0.14043394386315639
+    ],
+    "ponto_mais_baixo": {
+     "min": 0.5551651209711735,
+     "p10": 0.5587906176831992,
+     "p50": 0.5673545942415419
+    },
+    "dedos_ajuste_max_m": 0.056
+   },
+   "caixa_topo_m": 0.39583524326645814,
+   "caixa": {
+    "quadros_em_cima": 28,
+    "sola_min": 0.3958336049776591,
+    "sola_p50": 0.3984583953377886
+   }
+  }
+ },
+ "layout": {
+  "pose": {
+   "deslocamento": 0,
+   "bytes": 487552,
+   "tipo": "int16",
+   "forma": [
+    1172,
+    52,
+    4
+   ]
+  },
+  "raiz": {
+   "deslocamento": 487552,
+   "bytes": 14064,
+   "tipo": "float32",
+   "forma": [
+    1172,
+    3
+   ]
+  },
+  "camera": {
+   "deslocamento": 501616,
+   "bytes": 28128,
+   "tipo": "float32",
+   "forma": [
+    1172,
+    6
+   ]
+  },
+  "bola": {
+   "deslocamento": 529744,
+   "bytes": 32816,
+   "tipo": "float32",
+   "forma": [
+    1172,
+    7
+   ]
+  }
+ },
+ "arquivo": "cena-futebol.bin",
+ "bytes": 562560,
+ "sha256": "507882015ae98d12a65846e90031a30bbb05632707b8f70a855d392eb1f4f6a3",
+ "arquivo_gz": "cena-futebol.bin.gz",
+ "bytes_gz": 393668
+}

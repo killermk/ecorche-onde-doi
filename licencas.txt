@@ -1,0 +1,78 @@
+# Licenças e atribuição
+
+Resumo: o modelo anatômico é distribuído sob **CC BY-SA 4.0** (herdada do Z-Anatomy, que deriva do
+BodyParts3D). Desde a fase 11, o lado de fora é o écorché do Diego Luján García e os olhos vêm do modelo do
+Narr.yworld, ambos sob CC BY 4.0 (compatível: material CC BY pode entrar numa obra derivada sob CC BY-SA, com o
+crédito mantido). O código deste projeto (módulo, pipeline e testes) pertence ao dono do projeto; as bibliotecas
+de terceiros mantêm as suas licenças.
+
+| Parte | Origem | Licença | O que foi feito aqui |
+|---|---|---|---|
+| Músculos e tendões de fora (escultura e texturas de cor e relevo) | Male Full Body Ecorche, de Diego Luján García (https://sketchfab.com/3d-models/male-full-body-ecorche-ab11ebff89224f03bd75efede1164cf6) | CC BY 4.0 | cada parte recebeu o nome da estrutura do atlas que fica embaixo dela; redução de malha por nível; o esqueleto parcial dele serviu de alvo do encaixe e não é distribuído |
+| Olhos (íris) | Realistic human eye, de Narr.yworld (https://sketchfab.com/3d-models/realistic-human-eye-deb290d67f5e48c69e0955056cbd9576) | CC BY 4.0 | íris fotografada em textura; esclera, córnea e cristalino refeitos nas medidas do olho humano |
+| Anatomia de dentro (músculos profundos, ossos, tendões, cartilagens, ligamentos) | Z-Anatomy (Startup.blend), derivado de BodyParts3D (DBCLS) | CC BY-SA 4.0 (Z-Anatomy); BodyParts3D sob CC BY-SA 2.1 JP | seleção de 873 estruturas, nomes em português, lado, classe, redução de malha, pesos, direção de fibra, fator de tendão; deformado para caber dentro do écorché do Luján |
+| Pele | face de fora da pele do Z-Anatomy | CC BY-SA 4.0 | refeita como superfície fechada, reparada, com folga de 1 mm sobre a anatomia |
+| Rig e pesos da pele | MakeHuman/MPFB2 2.0.17 (rig mixamo) | CC0 | encaixe no atlas e transferência dos pesos |
+| Movimentos | clipes Mixamo em FBX fornecidos pelo dono | termos de uso da Adobe Mixamo | transferência para o rig mestre e composição das cenas; os FBX não são distribuídos |
+| Adereços (pista, blocos, barreira, banco, maca, kettlebell, campo, bola, caixa, escritório, relógio, piso) | código deste projeto | do dono do projeto | geometria procedural; o kettlebell em GLB entregue pelo dono (licença Sketchfab Standard) não é usado nem distribuído |
+| three.js 0.180 (inclui OrbitControls) | https://threejs.org | MIT (texto abaixo) | empacotado no JavaScript da demonstração |
+| meshoptimizer 1.3 (decodificador) | https://github.com/zeux/meshoptimizer | MIT (texto abaixo) | empacotado no JavaScript da demonstração; o pipeline usa o codificador |
+| Código do módulo, do pipeline e dos testes | este projeto | todos os direitos reservados ao dono do projeto | |
+
+## Atribuição do modelo (acompanha qualquer distribuição)
+
+Músculos e tendões de fora: Male Full Body Ecorche, de Diego Luján García (https://sketchfab.com/diegoluga),
+CC BY 4.0. Olhos: Realistic human eye, de Narr.yworld (https://sketchfab.com/Narr.yworld), CC BY 4.0.
+Anatomia de dentro derivada de Z-Anatomy (https://www.z-anatomy.com), CC BY-SA 4.0, que deriva de BodyParts3D,
+© The Database Center for Life Science (DBCLS), CC BY-SA 2.1 JP. Pele refeita e estruturas
+selecionadas, renomeadas e preparadas para o navegador neste projeto. Rig e pesos de origem:
+MakeHuman/MPFB2 (CC0). Este modelo derivado é distribuído sob CC BY-SA 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/).
+
+## three.js (MIT)
+
+The MIT License
+
+Copyright © 2010-2025 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+## meshoptimizer (MIT)
+
+MIT License
+
+Copyright (c) 2016-2026 Arseny Kapoulkine
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

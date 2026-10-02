@@ -1,0 +1,757 @@
+{
+ "quadros": 1575,
+ "fps": 30,
+ "marcas": [
+  [
+   0,
+   "largada"
+  ],
+  [
+   163,
+   "barreira"
+  ],
+  [
+   191,
+   "queda"
+  ],
+  [
+   1325,
+   "comemoracao"
+  ]
+ ],
+ "trechos": [
+  {
+   "de": 0,
+   "ate": 66,
+   "clipe": "pose-base-arrancada",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 66,
+   "ate": 82,
+   "clipe": "arrancada",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 82,
+   "ate": 98,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 98,
+   "ate": 114,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  },
+  {
+   "de": 114,
+   "ate": 130,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 3,
+   "espelhado": false
+  },
+  {
+   "de": 130,
+   "ate": 146,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 4,
+   "espelhado": false
+  },
+  {
+   "de": 146,
+   "ate": 163,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 5,
+   "espelhado": false
+  },
+  {
+   "de": 163,
+   "ate": 191,
+   "clipe": "running-jump",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 191,
+   "ate": 224,
+   "clipe": "queda",
+   "t0": 0.55,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 224,
+   "ate": 270,
+   "clipe": "caido-no-chao",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 270,
+   "ate": 288,
+   "tipo": "pose mantida"
+  },
+  {
+   "de": 288,
+   "ate": 324,
+   "tipo": "pose mantida"
+  },
+  {
+   "de": 324,
+   "ate": 327,
+   "clipe": "sentado-e-desacreditado",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 327,
+   "ate": 470,
+   "clipe": "sentado-e-desacreditado",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 470,
+   "ate": 494,
+   "tipo": "pose mantida"
+  },
+  {
+   "de": 494,
+   "ate": 497,
+   "clipe": "deitando-na-maca",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 497,
+   "ate": 670,
+   "clipe": "deitando-na-maca",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 670,
+   "ate": 715,
+   "tipo": "pose mantida"
+  },
+  {
+   "de": 715,
+   "ate": 718,
+   "clipe": "00-agachamento",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 718,
+   "ate": 774,
+   "clipe": "00-agachamento",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 774,
+   "ate": 831,
+   "clipe": "00-agachamento",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  },
+  {
+   "de": 831,
+   "ate": 953,
+   "clipe": "02-agachamento-pernas-alternadas-e-estendidas",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 953,
+   "ate": 980,
+   "tipo": "transição feita neste projeto até o início de 06-agachamento-com-peso-frontal-bracos-ate-o-torax"
+  },
+  {
+   "de": 980,
+   "ate": 1058,
+   "clipe": "06-agachamento-com-peso-frontal-bracos-ate-o-torax",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1058,
+   "ate": 1137,
+   "clipe": "06-agachamento-com-peso-frontal-bracos-ate-o-torax",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  },
+  {
+   "de": 1137,
+   "ate": 1197,
+   "tipo": "pose parada: deitado na maca, igual ao fim da avaliação",
+   "copia_do_quadro": 669
+  },
+  {
+   "de": 1197,
+   "ate": 1199,
+   "clipe": "correndo-rapido",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 1199,
+   "ate": 1215,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1215,
+   "ate": 1231,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  },
+  {
+   "de": 1231,
+   "ate": 1248,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 3,
+   "espelhado": false
+  },
+  {
+   "de": 1248,
+   "ate": 1276,
+   "clipe": "running-jump",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1276,
+   "ate": 1292,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1292,
+   "ate": 1308,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  },
+  {
+   "de": 1308,
+   "ate": 1325,
+   "clipe": "correndo-rapido",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 3,
+   "espelhado": false
+  },
+  {
+   "de": 1325,
+   "ate": 1506,
+   "clipe": "vitoria-corredor",
+   "t0": 0.0,
+   "t1": 6.0,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1506,
+   "ate": 1540,
+   "clipe": "batendo-palmas",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1540,
+   "ate": 1575,
+   "clipe": "batendo-palmas",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  }
+ ],
+ "ajustes": [
+  {
+   "de": 165,
+   "ate": 182,
+   "tipo": "movimento feito neste projeto: técnica de transposição da barreira (perna de ataque, arrasto, tronco)"
+  },
+  {
+   "de": 330,
+   "ate": 374,
+   "tipo": "movimento feito neste projeto: extensão do joelho esquerdo sentado"
+  },
+  {
+   "de": 324,
+   "ate": 378,
+   "tipo": "mão sobre o joelho (cinemática inversa)"
+  },
+  {
+   "de": 1250,
+   "ate": 1267,
+   "tipo": "movimento feito neste projeto: técnica de transposição da barreira (perna de ataque, arrasto, tronco)"
+  },
+  {
+   "de": 953,
+   "ate": 1137,
+   "tipo": "mãos levadas até a alça do peso apoiado no chão (cinemática inversa)"
+  },
+  {
+   "de": 953,
+   "ate": 1137,
+   "tipo": "mãos levadas até a alça do peso apoiado no chão (cinemática inversa)"
+  },
+  {
+   "de": 494,
+   "ate": 735,
+   "tipo": "dedos apoiados sobre o tampo da maca (punho sobe por cinemática inversa)"
+  }
+ ],
+ "adereços": [
+  {
+   "tipo": "barreira",
+   "pos": [
+    -0.043007992741661824,
+    0.0,
+    15.75398103288112
+   ],
+   "dir": 0.0,
+   "altura": 0.914,
+   "de": 0,
+   "ate": 328
+  },
+  {
+   "tipo": "blocos",
+   "pedal_esq": [
+    0.33,
+    0.102,
+    0.182
+   ],
+   "pedal_dir": [
+    -0.515,
+    0.2,
+    -0.099
+   ],
+   "de": 0,
+   "ate": 126
+  },
+  {
+   "tipo": "pista",
+   "linha_largada": 0.3164414703369203,
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "comprimento": 60.0,
+   "de": 0,
+   "ate": 328
+  },
+  {
+   "tipo": "barreira",
+   "pos": [
+    -0.10513697032808339,
+    0.0,
+    19.452265751870137
+   ],
+   "dir": 0.0,
+   "altura": 0.914,
+   "de": 1197,
+   "ate": 1325
+  },
+  {
+   "tipo": "pista",
+   "linha_largada": -100.0,
+   "pos": [
+    0.0,
+    0.0,
+    10.0
+   ],
+   "comprimento": 60.0,
+   "de": 1197,
+   "ate": 1325
+  },
+  {
+   "tipo": "banco",
+   "pos": [
+    2.6,
+    0.3667614452165196,
+    19.75398103288112
+   ],
+   "dir": 3.141592653589793,
+   "de": 324,
+   "ate": 520
+  },
+  {
+   "tipo": "maca",
+   "pos": [
+    -3.0598276718860125,
+    0.5587906176831992,
+    19.83760065804769
+   ],
+   "dir": 0.1408996883693476,
+   "de": 494,
+   "ate": 735
+  },
+  {
+   "tipo": "maca",
+   "pos": [
+    -3.0598276718860125,
+    0.5587906176831992,
+    19.83760065804769
+   ],
+   "dir": 0.1408996883693476,
+   "de": 1137,
+   "ate": 1197
+  },
+  {
+   "tipo": "kettlebell",
+   "mao": "ambas",
+   "de": 953,
+   "ate": 1137
+  },
+  {
+   "tipo": "piso",
+   "pos": [
+    0.0,
+    0.0,
+    21.25398103288112
+   ],
+   "raio": 7.5,
+   "de": 316,
+   "ate": 1197
+  }
+ ],
+ "realces": [
+  {
+   "estruturas": [
+    "Patella",
+    "Patellar ligament",
+    "Medial meniscus",
+    "Lateral meniscus",
+    "Anterior cruciate ligament",
+    "Posterior cruciate ligament",
+    "Superficial part of tibial collateral ligament",
+    "Fibular collateral ligament"
+   ],
+   "lado": "E",
+   "de": 334,
+   "ate": 470,
+   "entrada": 12,
+   "saida": 12
+  },
+  {
+   "estruturas": [
+    "Patella",
+    "Patellar ligament",
+    "Medial meniscus",
+    "Lateral meniscus",
+    "Anterior cruciate ligament",
+    "Posterior cruciate ligament",
+    "Superficial part of tibial collateral ligament",
+    "Fibular collateral ligament"
+   ],
+   "lado": "E",
+   "de": 660,
+   "ate": 715,
+   "entrada": 10,
+   "saida": 10
+  },
+  {
+   "estruturas": [
+    "Rectus femoris muscle",
+    "Vastus lateralis muscle",
+    "Vastus medialis muscle",
+    "Gluteus maximus muscle"
+   ],
+   "lado": "ambos",
+   "de": 718,
+   "ate": 1137,
+   "entrada": 15,
+   "saida": 15
+  },
+  {
+   "estruturas": [
+    "Patella",
+    "Patellar ligament",
+    "Medial meniscus",
+    "Lateral meniscus",
+    "Anterior cruciate ligament",
+    "Posterior cruciate ligament",
+    "Superficial part of tibial collateral ligament",
+    "Fibular collateral ligament"
+   ],
+   "lado": "E",
+   "de": 1147,
+   "ate": 1197,
+   "entrada": 10,
+   "saida": 20,
+   "forca": 0.5
+  }
+ ],
+ "etapas": [
+  {
+   "de": 0,
+   "ate": 66,
+   "titulo": "Largada",
+   "texto": "Pés nos pedais do bloco, mãos atrás da linha. Na prova de 400 m com barreiras masculina adulta são dez barreiras de 0,914 m."
+  },
+  {
+   "de": 66,
+   "ate": 163,
+   "titulo": "Aproximação",
+   "texto": "Na prova, a primeira barreira fica a 45 m da largada. A cena encurta essa distância (decisão do modelo, não medida da prova)."
+  },
+  {
+   "de": 163,
+   "ate": 191,
+   "titulo": "Transposição",
+   "texto": "Perna de ataque à frente, perna de arrasto passando por cima da barreira."
+  },
+  {
+   "de": 191,
+   "ate": 288,
+   "titulo": "Aterrissagem e queda",
+   "texto": "A queda vem depois do pouso. A cena mostra o movimento; não indica a causa."
+  },
+  {
+   "de": 324,
+   "ate": 470,
+   "titulo": "No banco",
+   "texto": "Mão sobre o joelho, perna estendida. Em destaque, ossos, meniscos e ligamentos do joelho desse lado."
+  },
+  {
+   "de": 494,
+   "ate": 715,
+   "titulo": "Avaliação",
+   "texto": "Deitado na maca, o joelho é examinado. Só a avaliação presencial define o que aconteceu."
+  },
+  {
+   "de": 715,
+   "ate": 1137,
+   "titulo": "Reabilitação",
+   "texto": "Agachamento, agachamento com pernas alternadas e agachamento com peso à frente: sequência ilustrativa, não prescrição."
+  },
+  {
+   "de": 1137,
+   "ate": 1197,
+   "titulo": "Reavaliação",
+   "texto": "Nova avaliação antes de voltar à pista."
+  },
+  {
+   "de": 1197,
+   "ate": 1325,
+   "titulo": "Retorno",
+   "texto": "De volta à corrida, a barreira passa limpa."
+  },
+  {
+   "de": 1325,
+   "ate": 1575,
+   "titulo": "Comemoração",
+   "texto": "Salto com o punho erguido e palmas."
+  }
+ ],
+ "cortes": [
+  {
+   "quadro": 324,
+   "largura": 16
+  },
+  {
+   "quadro": 494,
+   "largura": 16
+  },
+  {
+   "quadro": 715,
+   "largura": 14
+  },
+  {
+   "quadro": 1137,
+   "largura": 14
+  },
+  {
+   "quadro": 1197,
+   "largura": 14
+  }
+ ],
+ "fatos": {
+  "prova": "400 m com barreiras, masculino adulto (World Athletics)",
+  "barreiras": 10,
+  "altura_m": 0.914,
+  "ate_primeira_m": 45,
+  "entre_barreiras_m": 35,
+  "ultima_ate_chegada_m": 40,
+  "adaptacoes": [
+   "aproximação encurtada",
+   "uma barreira mostrada por vez"
+  ],
+  "margem_sobre_a_barreira_m": 0.07999999999999996,
+  "subida_aplicada_m": 0.1342038668855648,
+  "margem_retorno_m": 0.08000000000000018,
+  "subida_retorno_m": 0.13382194331496094,
+  "perna_de_ataque": "Left",
+  "tecnica": "transposição (perna de ataque, perna de arrasto, tronco) feita neste projeto sobre o clipe Running Jump",
+  "lado_destacado": "E",
+  "contatos_travados": {
+   "Left": 14,
+   "Right": 12
+  },
+  "contatos_pela_pele": {
+   "chao_correcao_max_m": 0.1088,
+   "banco_topo_m": 0.367,
+   "maca": {
+    "pos": [
+     -3.0598276718860125,
+     0.5587906176831992,
+     19.83760065804769
+    ],
+    "dir": 0.1408996883693476,
+    "altura_topo": 0.5587906176831992,
+    "eixo": [
+     0.9900900501525299,
+     0.0,
+     -0.14043394386315755
+    ],
+    "ponto_mais_baixo": {
+     "min": 0.5551651209711735,
+     "p10": 0.5587906176831992,
+     "p50": 0.5672959461509764
+    },
+    "dedos_ajuste_max_m": 0.056
+   },
+   "peso": {
+    "quadros": 184,
+    "segurado": 161,
+    "primeira_pegada": 976,
+    "quadros_com_toque": 0,
+    "max_vertices": 0,
+    "profundidade_max_m": 0.0
+   },
+   "maos_na_alca_ajuste_max_m": 0.103
+  },
+  "movimento_proprio": [
+   "transposição da barreira",
+   "extensão do joelho sentado"
+  ]
+ },
+ "layout": {
+  "pose": {
+   "deslocamento": 0,
+   "bytes": 655200,
+   "tipo": "int16",
+   "forma": [
+    1575,
+    52,
+    4
+   ]
+  },
+  "raiz": {
+   "deslocamento": 655200,
+   "bytes": 18900,
+   "tipo": "float32",
+   "forma": [
+    1575,
+    3
+   ]
+  },
+  "camera": {
+   "deslocamento": 674100,
+   "bytes": 37800,
+   "tipo": "float32",
+   "forma": [
+    1575,
+    6
+   ]
+  },
+  "peso": {
+   "deslocamento": 711900,
+   "bytes": 50400,
+   "tipo": "float32",
+   "forma": [
+    1575,
+    8
+   ]
+  }
+ },
+ "arquivo": "cena-corredor.bin",
+ "bytes": 762300,
+ "sha256": "64abaa2516ad30f07715a0fa237e6d641608de10d2e9fc76a80cf53d3d76eed5",
+ "arquivo_gz": "cena-corredor.bin.gz",
+ "bytes_gz": 379260
+}

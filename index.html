@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Écorché controlável: avaliação</title>
+  <meta name="robots" content="noindex">
+  <style>
+    html, body { margin: 0; height: 100%; background: #eef2f7; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: #10202e; }
+    header { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 8px 12px; background: #fff; box-shadow: 0 1px 0 #d3dde9; }
+    header h1 { font-size: 16px; margin: 0 8px 0 0; }
+    header button, header select { font: inherit; min-height: 44px; padding: 0 12px; border-radius: 22px; border: 2px solid #c6d3e2; background: #fff; }
+    header button[aria-pressed="true"] { background: #1c4f8f; color: #fff; border-color: #1c4f8f; }
+    #palco { position: relative; height: calc(100vh - var(--cabecalho, 62px)); height: calc(100dvh - var(--cabecalho, 62px)); }
+    #rolagem { display: none; }
+    body.atleta #palco { position: sticky; top: 0; }
+    body.atleta #rolagem { display: block; height: 900vh; }
+    .versao { font-size: 12px; color: #4a5d70; }
+    noscript div { padding: 16px; }
+    .rodape { font-size: 12px; color: #4a5d70; margin: 0; padding: 8px 12px; }
+    body.atleta .rodape { display: none; }
+    .info { margin-left: auto; display: flex; flex-wrap: wrap; gap: 4px 10px; }
+    @media (max-width: 480px) {
+      header { gap: 6px; padding: 6px 10px; }
+      header h1 { font-size: 15px; }
+      header h1 .longo { display: none; }
+      .info { width: 100%; margin-left: 0; }
+      .versao { font-size: 11px; }
+    }
+  </style>
+  <script type="module" crossorigin src="./estatico/index-Dzs91IHV.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Écorché<span class="longo"> controlável</span></h1>
+    <button id="b-onde" aria-pressed="true" type="button">Onde dói</button>
+    <button id="b-atleta" aria-pressed="false" type="button">Atleta azul</button>
+    <button id="b-prof" aria-pressed="false" type="button">Profissional</button>
+    <button id="b-relato" aria-pressed="false" type="button">Mostrar onde dói</button>
+    <select id="s-cena" aria-label="Cena do Atleta azul" hidden>
+      <option value="corredor">Corredor</option>
+      <option value="futebol">Futebol</option>
+      <option value="cotidiano">Cotidiano</option>
+    </select>
+    <div class="info"><span class="versao" id="versao"></span><span class="versao" id="build"></span></div>
+  </header>
+  <div id="palco"></div>
+  <div id="rolagem" aria-hidden="true"></div>
+  <p class="rodape">Músculos de fora: Diego Luján García (CC BY 4.0). Olhos: Narr.yworld (CC BY 4.0). Anatomia de dentro derivada de Z-Anatomy e BodyParts3D (CC BY-SA 4.0); detalhes em <a href="licencas.txt">licencas.txt</a>. Ilustração para localizar estruturas; não indica diagnóstico.</p>
+  <noscript><div>
+    <h2>Onde dói: regiões do corpo</h2>
+    <p>Esta demonstração precisa de JavaScript para mostrar o modelo 3D. As seis regiões são: Pescoço; Ombro; Coluna lombar; Quadril e coxa; Joelho; Tornozelo e pé.</p>
+  </div></noscript>
+</body>
+</html>
