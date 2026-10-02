@@ -2,11 +2,12 @@
 
 Link: https://killermk.github.io/ecorche-onde-doi/
 
-Versão publicada: `8ad2fe4` (02/10/2026), a mesma mostrada no cabeçalho da página. Corpo da fase 11: músculos de
+Versão publicada: `35103a7` (02/10/2026), a mesma mostrada no cabeçalho da página. Corpo da fase 11: músculos de
 fora do écorché de Diego Luján García, anatomia de dentro do atlas, olhos do Narr.yworld. Desta versão (auditoria
-rígida): a câmera não entra mais no corpo; luz e cor novas (tone mapping AgX, oclusão de ambiente, luz física);
-esqueleto com ossos rígidos e juntas encaixadas; rótulos dos músculos de fora sem os músculos profundos espalhados;
-correções de estado entre os modos; créditos das licenças dentro do próprio módulo.
+rígida): os ossos ficam dentro do corpo (antes saíam até 4 cm pela pele nas mãos, nos antebraços, nas pernas e na
+testa); pele nova, feita do próprio corpo do écorché, com dedos separados, pés, rosto com as pálpebras abertas e
+material de pele novo (tom provisório, a decidir); com a pele opaca, nada de dentro aparece por fora; os músculos do
+olho não aparecem mais pela fenda; correções de estado e de câmera apontadas pela revisão independente.
 
 Repositório separado, só com o pacote de produção da demonstração (a página, o JavaScript, o modelo em dois níveis
 de detalhe, as texturas e as três cenas do Atleta azul). O site da JS não é tocado. Código-fonte, cenas mestras, FBX
