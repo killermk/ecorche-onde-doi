@@ -2,13 +2,12 @@
 
 Link: https://killermk.github.io/ecorche-onde-doi/
 
-Versão publicada: `eb7362b` (03/10/2026), a mesma mostrada no cabeçalho da página. Corpo da fase 11: músculos de
+Versão publicada: `8f3c0ed` (03/10/2026), a mesma mostrada no cabeçalho da página. Corpo da fase 11: músculos de
 fora do écorché de Diego Luján García, anatomia de dentro do atlas, olhos de DEGUIDER. Desta versão (auditoria
 rígida): o olho de DEGUIDER (íris azul, esclera com vasos, córnea transparente) e dois olhos de cada lado, como o dono
 decidiu: com a pele ou os músculos do rosto à vista, o olho do rosto, no lugar das pálpebras do écorché; quando eles
 saem, o olho de tamanho real dentro da órbita, com os músculos do olho no lugar anatômico. O osso que fura a pele
-aparece com a cor da pele, e com a pele opaca o clique ali escolhe a pele. Correções apontadas pela sexta revisão
-independente. Das versões anteriores: a pele translúcida parece pele, com os músculos aparecendo de leve; a pele cobre
+aparece com a cor da pele, e com a pele opaca o clique ali escolhe a pele. Correções apontadas pela sexta e pela sétima revisão independente. Das versões anteriores: a pele translúcida parece pele, com os músculos aparecendo de leve; a pele cobre
 os ossos que apareciam por fora; os ossos dentro do corpo; pele nova com tom neutro; com a pele opaca, nada de dentro
 aparece por fora; a câmera respeita o limite de aproximação durante os voos.
 
