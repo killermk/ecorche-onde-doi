@@ -1,15 +1,15 @@
 # Licenças e atribuição
 
 Resumo: o modelo anatômico é distribuído sob **CC BY-SA 4.0** (herdada do Z-Anatomy, que deriva do
-BodyParts3D). Desde a fase 11, o lado de fora é o écorché do Diego Luján García e os olhos vêm do modelo do
-Narr.yworld, ambos sob CC BY 4.0 (compatível: material CC BY pode entrar numa obra derivada sob CC BY-SA, com o
+BodyParts3D). Desde a fase 11, o lado de fora é o écorché do Diego Luján García e os olhos vêm do modelo de
+DEGUIDER, ambos sob CC BY 4.0 (compatível: material CC BY pode entrar numa obra derivada sob CC BY-SA, com o
 crédito mantido). O código deste projeto (módulo, pipeline e testes) pertence ao dono do projeto; as bibliotecas
 de terceiros mantêm as suas licenças.
 
 | Parte | Origem | Licença | O que foi feito aqui |
 |---|---|---|---|
 | Músculos e tendões de fora (escultura e texturas de cor e relevo) | Male Full Body Ecorche, de Diego Luján García (https://sketchfab.com/3d-models/male-full-body-ecorche-ab11ebff89224f03bd75efede1164cf6) | CC BY 4.0 | cada parte recebeu o nome da estrutura do atlas que fica embaixo dela; redução de malha por nível; o esqueleto parcial dele serviu de alvo do encaixe e não é distribuído |
-| Olhos (íris) | Realistic human eye, de Narr.yworld (https://sketchfab.com/3d-models/realistic-human-eye-deb290d67f5e48c69e0955056cbd9576) | CC BY 4.0 | íris fotografada em textura; esclera, córnea e cristalino refeitos nas medidas do olho humano |
+| Olhos (esclera, íris e córnea) | Human Eye, de DEGUIDER (https://sketchfab.com/3d-models/human-eye-b68ae822b45443edb812950993ece362) | CC BY 4.0 | cor e relevo dele num atlas próprio; malha refeita com a resolução de cada nível; dois olhos de cada lado (o do rosto, no tamanho das pálpebras do écorché, e o da órbita, de tamanho real) |
 | Anatomia de dentro (músculos profundos, ossos, tendões, cartilagens, ligamentos) | Z-Anatomy (Startup.blend), derivado de BodyParts3D (DBCLS) | CC BY-SA 4.0 (Z-Anatomy); BodyParts3D sob CC BY-SA 2.1 JP | seleção de 873 estruturas, nomes em português, lado, classe, redução de malha, pesos, direção de fibra, fator de tendão; deformado para caber dentro do écorché do Luján |
 | Pele | face de fora da pele do Z-Anatomy | CC BY-SA 4.0 | refeita como superfície fechada, reparada, com folga de 1 mm sobre a anatomia |
 | Rig e pesos da pele | MakeHuman/MPFB2 2.0.17 (rig mixamo) | CC0 | encaixe no atlas e transferência dos pesos |
@@ -22,7 +22,7 @@ de terceiros mantêm as suas licenças.
 ## Atribuição do modelo (acompanha qualquer distribuição)
 
 Músculos e tendões de fora: Male Full Body Ecorche, de Diego Luján García (https://sketchfab.com/diegoluga),
-CC BY 4.0. Olhos: Realistic human eye, de Narr.yworld (https://sketchfab.com/Narr.yworld), CC BY 4.0.
+CC BY 4.0. Olhos: "Human Eye", de DEGUIDER (https://sketchfab.com/3d-models/human-eye-b68ae822b45443edb812950993ece362), CC BY 4.0.
 Anatomia de dentro derivada de Z-Anatomy (https://www.z-anatomy.com), CC BY-SA 4.0, que deriva de BodyParts3D,
 © The Database Center for Life Science (DBCLS), CC BY-SA 2.1 JP. Pele refeita e estruturas
 selecionadas, renomeadas e preparadas para o navegador neste projeto. Rig e pesos de origem:
