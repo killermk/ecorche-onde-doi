@@ -1,0 +1,744 @@
+{
+ "quadros": 1384,
+ "fps": 30,
+ "marcas": [
+  [
+   0,
+   "trabalho"
+  ],
+  [
+   1240,
+   "comemoracao"
+  ]
+ ],
+ "trechos": [
+  {
+   "de": 0,
+   "ate": 9,
+   "clipe": "teclando-realmente",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 9,
+   "ate": 370,
+   "clipe": "teclando-realmente",
+   "t0": 0.0,
+   "t1": 12.0,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 370,
+   "ate": 466,
+   "tipo": "pose mantida"
+  },
+  {
+   "de": 466,
+   "ate": 508,
+   "tipo": "movimento feito neste projeto: levantar da cadeira"
+  },
+  {
+   "de": 508,
+   "ate": 526,
+   "tipo": "pose mantida"
+  },
+  {
+   "de": 526,
+   "ate": 622,
+   "clipe": "deitando-na-maca",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 622,
+   "ate": 625,
+   "clipe": "00-agachamento",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 625,
+   "ate": 681,
+   "clipe": "00-agachamento",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 681,
+   "ate": 738,
+   "clipe": "00-agachamento",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  },
+  {
+   "de": 738,
+   "ate": 794,
+   "clipe": "01-agachamento-bracos-estendidos",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 794,
+   "ate": 851,
+   "clipe": "01-agachamento-bracos-estendidos",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  },
+  {
+   "de": 851,
+   "ate": 878,
+   "tipo": "transição feita neste projeto até o início de 06-agachamento-com-peso-frontal-bracos-ate-o-torax"
+  },
+  {
+   "de": 878,
+   "ate": 879,
+   "clipe": "06-agachamento-com-peso-frontal-bracos-ate-o-torax",
+   "t0": 0.0,
+   "t1": 0.0,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 879,
+   "ate": 903,
+   "tipo": "transição feita neste projeto até o início de 07-agachamento-com-peso-frontal-bracos-estendidos"
+  },
+  {
+   "de": 903,
+   "ate": 961,
+   "clipe": "07-agachamento-com-peso-frontal-bracos-estendidos",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 961,
+   "ate": 1020,
+   "clipe": "07-agachamento-com-peso-frontal-bracos-estendidos",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 2,
+   "espelhado": false
+  },
+  {
+   "de": 1020,
+   "ate": 1086,
+   "clipe": "deitando-na-maca",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 1086,
+   "ate": 1089,
+   "clipe": "teclando-realmente",
+   "quadro_do_clipe": 0,
+   "tipo": "pose parada"
+  },
+  {
+   "de": 1089,
+   "ate": 1240,
+   "clipe": "teclando-realmente",
+   "t0": 4.0,
+   "t1": 9.0,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1240,
+   "ate": 1279,
+   "tipo": "movimento feito neste projeto: levantar da cadeira"
+  },
+  {
+   "de": 1279,
+   "ate": 1296,
+   "clipe": "batendo-palmas",
+   "t0": 0.0,
+   "t1": 0.55,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  },
+  {
+   "de": 1296,
+   "ate": 1384,
+   "clipe": "vitoria-2",
+   "t0": 0.0,
+   "t1": null,
+   "velocidade": 1.0,
+   "repeticao": 1,
+   "espelhado": false
+  }
+ ],
+ "ajustes": [
+  {
+   "de": 376,
+   "ate": 462,
+   "tipo": "gesto feito neste projeto: abrir e fechar as mãos"
+  },
+  {
+   "de": 466,
+   "ate": 508,
+   "tipo": "mãos saem do teclado por cima e recuam antes de descer (cinemática inversa)"
+  },
+  {
+   "de": 536,
+   "ate": 616,
+   "tipo": "gesto feito neste projeto: abrir e fechar as mãos"
+  },
+  {
+   "de": 1028,
+   "ate": 1082,
+   "tipo": "gesto feito neste projeto: abrir e fechar as mãos"
+  },
+  {
+   "de": 1240,
+   "ate": 1279,
+   "tipo": "mãos saem do teclado por cima e recuam antes de descer (cinemática inversa)"
+  },
+  {
+   "de": 851,
+   "ate": 1020,
+   "tipo": "mãos levadas até a alça do peso apoiado no chão (cinemática inversa)"
+  }
+ ],
+ "adereços": [
+  {
+   "tipo": "kettlebell",
+   "mao": "ambas",
+   "de": 851,
+   "ate": 1020
+  },
+  {
+   "tipo": "escritorio",
+   "pos": [
+    0.0,
+    0.0,
+    2.591024325533844
+   ],
+   "de": 0,
+   "ate": 527
+  },
+  {
+   "tipo": "escritorio",
+   "pos": [
+    0.0,
+    0.0,
+    2.591024325533844
+   ],
+   "de": 1086,
+   "ate": 1000000
+  },
+  {
+   "tipo": "teclado",
+   "pos": [
+    0.10724464780174538,
+    0.6467626661956248,
+    0.6310243255338439
+   ],
+   "de": 0,
+   "ate": 527
+  },
+  {
+   "tipo": "teclado",
+   "pos": [
+    0.10724464780174538,
+    0.6467626661956248,
+    0.6310243255338439
+   ],
+   "de": 1086,
+   "ate": 1000000
+  },
+  {
+   "tipo": "mesa",
+   "pos": [
+    0.10724464780174538,
+    0.6467626661956248,
+    0.8810243255338439
+   ],
+   "de": 0,
+   "ate": 527
+  },
+  {
+   "tipo": "mesa",
+   "pos": [
+    0.10724464780174538,
+    0.6467626661956248,
+    0.8810243255338439
+   ],
+   "de": 1086,
+   "ate": 1000000
+  },
+  {
+   "tipo": "monitor",
+   "pos": [
+    0.10724464780174538,
+    0.6467626661956248,
+    1.0610243255338438
+   ],
+   "dir": 3.141592653589793,
+   "de": 0,
+   "ate": 527
+  },
+  {
+   "tipo": "monitor",
+   "pos": [
+    0.10724464780174538,
+    0.6467626661956248,
+    1.0610243255338438
+   ],
+   "dir": 3.141592653589793,
+   "de": 1086,
+   "ate": 1000000
+  },
+  {
+   "tipo": "cadeira",
+   "pos": [
+    0.0,
+    0.3337306220134625,
+    -0.02
+   ],
+   "de": 0,
+   "ate": 527,
+   "trajeto": [
+    [
+     470,
+     0.0,
+     0.3337,
+     -0.02
+    ],
+    [
+     475,
+     -0.0002,
+     0.3337,
+     -0.0459
+    ],
+    [
+     481,
+     -0.0006,
+     0.3337,
+     -0.1107
+    ],
+    [
+     486,
+     -0.0011,
+     0.3337,
+     -0.195
+    ],
+    [
+     491,
+     -0.0017,
+     0.3337,
+     -0.2793
+    ],
+    [
+     497,
+     -0.0021,
+     0.3337,
+     -0.3441
+    ],
+    [
+     502,
+     -0.0023,
+     0.3337,
+     -0.37
+    ]
+   ]
+  },
+  {
+   "tipo": "cadeira",
+   "pos": [
+    0.0,
+    0.3337306220134625,
+    -0.02
+   ],
+   "de": 1086,
+   "ate": 1000000,
+   "trajeto": [
+    [
+     1244,
+     0.0,
+     0.3337,
+     -0.02
+    ],
+    [
+     1249,
+     -0.0002,
+     0.3337,
+     -0.0459
+    ],
+    [
+     1254,
+     -0.0006,
+     0.3337,
+     -0.1107
+    ],
+    [
+     1259,
+     -0.0011,
+     0.3337,
+     -0.195
+    ],
+    [
+     1264,
+     -0.0017,
+     0.3337,
+     -0.2793
+    ],
+    [
+     1269,
+     -0.0021,
+     0.3337,
+     -0.3441
+    ],
+    [
+     1274,
+     -0.0023,
+     0.3337,
+     -0.37
+    ]
+   ]
+  },
+  {
+   "tipo": "relogio",
+   "pos": [
+    -0.25,
+    1.55,
+    1.361024325533844
+   ],
+   "dir": 3.141592653589793,
+   "de": 0,
+   "ate": 1000000
+  },
+  {
+   "tipo": "piso",
+   "pos": [
+    0.0,
+    0.0,
+    2.0
+   ],
+   "raio": 6.5,
+   "de": 526,
+   "ate": 1085
+  },
+  {
+   "tipo": "maca",
+   "pos": [
+    2.33720321627866,
+    0.5634659189908999,
+    1.9999999999999998
+   ],
+   "dir": -2.83276944882399e-16,
+   "de": 526,
+   "ate": 622
+  },
+  {
+   "tipo": "maca",
+   "pos": [
+    2.33720321627866,
+    0.5634659189908999,
+    1.9999999999999998
+   ],
+   "dir": -2.83276944882399e-16,
+   "de": 1020,
+   "ate": 1086
+  }
+ ],
+ "realces": [
+  {
+   "estruturas": [
+    "Articular capsules of metacarpophalangeal joints",
+    "Articular capsules of proximal interphalangeal joints",
+    "Articular capsules of distal interphalangeal joints",
+    "Articular capsule of radiocarpal joint"
+   ],
+   "lado": "ambos",
+   "de": 370,
+   "ate": 466,
+   "entrada": 10,
+   "saida": 12
+  },
+  {
+   "estruturas": [
+    "Articular capsules of metacarpophalangeal joints",
+    "Articular capsules of proximal interphalangeal joints",
+    "Articular capsules of distal interphalangeal joints",
+    "Articular capsule of radiocarpal joint"
+   ],
+   "lado": "ambos",
+   "de": 534,
+   "ate": 622,
+   "entrada": 10,
+   "saida": 10
+  },
+  {
+   "estruturas": [
+    "Gluteus maximus muscle",
+    "Rectus femoris muscle",
+    "Vastus lateralis muscle",
+    "Vastus medialis muscle"
+   ],
+   "lado": "ambos",
+   "de": 625,
+   "ate": 1020,
+   "entrada": 15,
+   "saida": 15
+  },
+  {
+   "estruturas": [
+    "Articular capsules of metacarpophalangeal joints",
+    "Articular capsules of proximal interphalangeal joints",
+    "Articular capsules of distal interphalangeal joints",
+    "Articular capsule of radiocarpal joint"
+   ],
+   "lado": "ambos",
+   "de": 1028,
+   "ate": 1086,
+   "entrada": 10,
+   "saida": 20,
+   "forca": 0.5
+  }
+ ],
+ "etapas": [
+  {
+   "de": 0,
+   "ate": 370,
+   "titulo": "Trabalho",
+   "texto": "Horas de digitação. O relógio da parede avança um dia inteiro de trabalho ao longo deste trecho."
+  },
+  {
+   "de": 370,
+   "ate": 466,
+   "titulo": "As mãos",
+   "texto": "Abrir e fechar as mãos. Em destaque, as cápsulas das articulações dos dedos e do punho."
+  },
+  {
+   "de": 466,
+   "ate": 526,
+   "titulo": "Levantar",
+   "texto": "Hora de levantar da cadeira."
+  },
+  {
+   "de": 526,
+   "ate": 622,
+   "titulo": "Avaliação",
+   "texto": "Mãos e punhos examinados. A cena não indica diagnóstico."
+  },
+  {
+   "de": 622,
+   "ate": 1020,
+   "titulo": "Reabilitação",
+   "texto": "Agachamento, agachamento com braços estendidos e agachamento com peso à frente: sequência ilustrativa, não prescrição."
+  },
+  {
+   "de": 1020,
+   "ate": 1086,
+   "titulo": "Reavaliação",
+   "texto": "Nova avaliação antes de voltar ao trabalho."
+  },
+  {
+   "de": 1086,
+   "ate": 1240,
+   "titulo": "De volta à atividade",
+   "texto": "De volta ao computador."
+  },
+  {
+   "de": 1240,
+   "ate": 1384,
+   "titulo": "Comemoração",
+   "texto": "Levantar, uma palma e braços erguidos."
+  }
+ ],
+ "cortes": [
+  {
+   "quadro": 526,
+   "largura": 16
+  },
+  {
+   "quadro": 622,
+   "largura": 14
+  },
+  {
+   "quadro": 1020,
+   "largura": 14
+  },
+  {
+   "quadro": 1086,
+   "largura": 14
+  }
+ ],
+ "fatos": {
+  "clipe_de_digitacao": "Teclando realmente (inspecionado; Piano Playing não usado)",
+  "relogio": "9h às 17h no trecho de trabalho",
+  "exercicios": [
+   "00",
+   "01",
+   "07"
+  ],
+  "movimento_proprio": [
+   "levantar da cadeira (transição)",
+   "abrir e fechar as mãos"
+  ],
+  "contatos_travados": {
+   "Left": 6,
+   "Right": 7
+  },
+  "contatos_pela_pele": {
+   "chao_correcao_max_m": 0.1699,
+   "cadeira_topo_m": 0.334,
+   "teclas_topo_m": 0.675,
+   "maca": {
+    "pos": [
+     2.33720321627866,
+     0.5634659189908999,
+     1.9999999999999998
+    ],
+    "dir": -2.83276944882399e-16,
+    "altura_topo": 0.5634659189908999,
+    "eixo": [
+     1.0,
+     0.0,
+     2.83276944882399e-16
+    ],
+    "ponto_mais_baixo": {
+     "min": 0.5634659189908999,
+     "p10": 0.5634659189908999,
+     "p50": 0.5634659189908999
+    }
+   },
+   "peso": {
+    "quadros": 169,
+    "segurado": 144,
+    "primeira_pegada": 876,
+    "quadros_com_toque": 0,
+    "max_vertices": 0,
+    "profundidade_max_m": 0.0
+   },
+   "maos_na_alca_ajuste_max_m": 0.103
+  }
+ },
+ "layout": {
+  "pose": {
+   "deslocamento": 0,
+   "bytes": 575744,
+   "tipo": "int16",
+   "forma": [
+    1384,
+    52,
+    4
+   ]
+  },
+  "raiz": {
+   "deslocamento": 575744,
+   "bytes": 16608,
+   "tipo": "float32",
+   "forma": [
+    1384,
+    3
+   ]
+  },
+  "camera": {
+   "deslocamento": 592352,
+   "bytes": 33216,
+   "tipo": "float32",
+   "forma": [
+    1384,
+    6
+   ]
+  },
+  "relogio": {
+   "deslocamento": 625568,
+   "bytes": 5536,
+   "tipo": "float32",
+   "forma": [
+    1384
+   ]
+  },
+  "peso": {
+   "deslocamento": 631104,
+   "bytes": 44288,
+   "tipo": "float32",
+   "forma": [
+    1384,
+    8
+   ]
+  }
+ },
+ "ossos": [
+  "Hips",
+  "Spine",
+  "Spine1",
+  "Spine2",
+  "Neck",
+  "Head",
+  "LeftShoulder",
+  "LeftArm",
+  "LeftForeArm",
+  "LeftHand",
+  "LeftUpLeg",
+  "LeftLeg",
+  "LeftFoot",
+  "LeftToeBase",
+  "LeftHandThumb1",
+  "LeftHandThumb2",
+  "LeftHandThumb3",
+  "LeftHandIndex1",
+  "LeftHandIndex2",
+  "LeftHandIndex3",
+  "LeftHandMiddle1",
+  "LeftHandMiddle2",
+  "LeftHandMiddle3",
+  "LeftHandRing1",
+  "LeftHandRing2",
+  "LeftHandRing3",
+  "LeftHandPinky1",
+  "LeftHandPinky2",
+  "LeftHandPinky3",
+  "RightShoulder",
+  "RightArm",
+  "RightForeArm",
+  "RightHand",
+  "RightUpLeg",
+  "RightLeg",
+  "RightFoot",
+  "RightToeBase",
+  "RightHandThumb1",
+  "RightHandThumb2",
+  "RightHandThumb3",
+  "RightHandIndex1",
+  "RightHandIndex2",
+  "RightHandIndex3",
+  "RightHandMiddle1",
+  "RightHandMiddle2",
+  "RightHandMiddle3",
+  "RightHandRing1",
+  "RightHandRing2",
+  "RightHandRing3",
+  "RightHandPinky1",
+  "RightHandPinky2",
+  "RightHandPinky3"
+ ],
+ "arquivo": "cena-cotidiano.de4bac2f987e.bin",
+ "bytes": 675392,
+ "sha256": "de4bac2f987eaff7aeb6132c40fe3d286e96742e71232b851bb7ecc287ae9e64",
+ "arquivo_gz": "cena-cotidiano.de4bac2f987e.bin.gz",
+ "bytes_gz": 364695
+}
